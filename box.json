@@ -18,20 +18,19 @@
       ],
       "settings": [
         {
-          "id": "tim_ax_id400",
-          "name": "tim_ax_id400",
-          "val": "",
-          "type": "number",
-          "placeholder": "tim_ax_id400",
-          "desc": "tim_ax_id400"
-        },
-        {
           "id": "tim_ax_id200",
           "name": "tim_ax_id200",
           "val": "",
           "type": "number",
-          "placeholder": "tim_ax_id200",
-          "desc": "tim_ax_id200"
+          "placeholder": "",
+          "desc": ""
+        },{
+          "id": "tim_ax_id400",
+          "name": "tim_ax_id400",
+          "val": "",
+          "type": "number",
+          "placeholder": "",
+          "desc": ""
         }
       ],
       "script": "",
