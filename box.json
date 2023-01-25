@@ -10,6 +10,7 @@
       "id": "anxi",
       "name": "anxi",
       "keys": [
+        "tim_ax_id200",
         "tim_ax_id400"
       ],
       "descs_html": [
@@ -23,6 +24,14 @@
           "type": "number",
           "placeholder": "tim_ax_id400",
           "desc": "tim_ax_id400"
+        },
+        {
+          "id": "tim_ax_id200",
+          "name": "tim_ax_id200",
+          "val": "",
+          "type": "number",
+          "placeholder": "tim_ax_id200",
+          "desc": "tim_ax_id200"
         }
       ],
       "script": "",
