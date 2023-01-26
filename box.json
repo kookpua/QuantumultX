@@ -38,6 +38,46 @@
       "repo": "",
       "icons": [
       ]
+    },{
+      "id": "xishui",
+      "name": "xishui",
+      "keys": [
+        "tim_xs_id1",
+        "tim_xs_id2",
+        "tim_xs_id3"
+      ],
+      "descs_html": [
+        "<p>xs</p>"
+      ],
+      "settings": [
+        {
+          "id": "tim_xs_id1",
+          "name": "tim_xs_id1",
+          "val": "",
+          "type": "number",
+          "placeholder": "",
+          "desc": ""
+        },{
+          "id": "tim_xs_id2",
+          "name": "tim_xs_id2",
+          "val": "",
+          "type": "number",
+          "placeholder": "",
+          "desc": ""
+        },{
+          "id": "tim_xs_id3",
+          "name": "tim_xs_id3",
+          "val": "",
+          "type": "number",
+          "placeholder": "",
+          "desc": ""
+        }
+      ],
+      "script": "",
+      "author": "@tim",
+      "repo": "",
+      "icons": [
+      ]
     }
   ]
 }
