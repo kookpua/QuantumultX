@@ -10,6 +10,8 @@
       "id": "anxi",
       "name": "anxi",
       "keys": [
+        "tim_ax_id50",
+        "tim_ax_id100",
         "tim_ax_id200",
         "tim_ax_id400"
       ],
@@ -18,6 +20,20 @@
       ],
       "settings": [
         {
+          "id": "tim_ax_id50",
+          "name": "tim_ax_id50",
+          "val": "",
+          "type": "number",
+          "placeholder": "",
+          "desc": ""
+        },{
+          "id": "tim_ax_id100",
+          "name": "tim_ax_id100",
+          "val": "",
+          "type": "number",
+          "placeholder": "",
+          "desc": ""
+        },{
           "id": "tim_ax_id200",
           "name": "tim_ax_id200",
           "val": "",
