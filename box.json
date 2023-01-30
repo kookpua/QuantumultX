@@ -7,56 +7,8 @@
   "apps": [
    
     {
-      "id": "anxi",
-      "name": "anxi",
-      "keys": [
-        "tim_ax_id50",
-        "tim_ax_id100",
-        "tim_ax_id200",
-        "tim_ax_id400"
-      ],
-      "descs_html": [
-        "<p>ax</p>"
-      ],
-      "settings": [
-        {
-          "id": "tim_ax_id50",
-          "name": "tim_ax_id50",
-          "val": "",
-          "type": "number",
-          "placeholder": "",
-          "desc": ""
-        },{
-          "id": "tim_ax_id100",
-          "name": "tim_ax_id100",
-          "val": "",
-          "type": "number",
-          "placeholder": "",
-          "desc": ""
-        },{
-          "id": "tim_ax_id200",
-          "name": "tim_ax_id200",
-          "val": "",
-          "type": "number",
-          "placeholder": "",
-          "desc": ""
-        },{
-          "id": "tim_ax_id400",
-          "name": "tim_ax_id400",
-          "val": "",
-          "type": "number",
-          "placeholder": "",
-          "desc": ""
-        }
-      ],
-      "script": "",
-      "author": "@tim",
-      "repo": "",
-      "icons": [
-      ]
-    },{
-      "id": "xishui",
-      "name": "xishui",
+      "id": "xs",
+      "name": "xs",
       "keys": [
         "tim_xs_id1",
         "tim_xs_id2",
