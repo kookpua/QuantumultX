@@ -11,8 +11,7 @@
       "name": "xs",
       "keys": [
         "tim_xs_id1",
-        "tim_xs_id2",
-        "tim_xs_id3"
+        "tim_xs_id2"
       ],
       "descs_html": [
         "<p>xs</p>"
@@ -28,13 +27,6 @@
         },{
           "id": "tim_xs_id2",
           "name": "tim_xs_id2",
-          "val": "",
-          "type": "number",
-          "placeholder": "",
-          "desc": ""
-        },{
-          "id": "tim_xs_id3",
-          "name": "tim_xs_id3",
           "val": "",
           "type": "number",
           "placeholder": "",
