@@ -94,6 +94,38 @@
       "repo": "",
       "icons": [
       ]
+    },{
+      "id": "gy4",
+      "name": "gy4",
+      "keys": [
+        "tim_gy_id",
+        "tim_gy_code"
+      ],
+      "descs_html": [
+        "<p>gy4</p>"
+      ],
+      "settings": [
+        {
+          "id": "tim_gy_id",
+          "name": "tim_gy_id",
+          "val": "",
+          "type": "number",
+          "placeholder": "",
+          "desc": ""
+        },{
+          "id": "tim_gy_code",
+          "name": "tim_gy_code",
+          "val": "",
+          "type": "number",
+          "placeholder": "",
+          "desc": ""
+        }
+      ],
+      "script": "",
+      "author": "@tim",
+      "repo": "",
+      "icons": [
+      ]
     }
   ]
 }
