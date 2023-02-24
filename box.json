@@ -7,11 +7,60 @@
   "apps": [
    
     {
-      "id": "xs",
-      "name": "xs",
+      "id": "ax",
+      "name": "ax",
+      "keys": [
+        "tim_ax_id50",
+        "tim_ax_id100",
+        "tim_ax_id200",
+        "tim_ax_id400"
+      ],
+      "descs_html": [
+        "<p>ax</p>"
+      ],
+      "settings": [
+        {
+          "id": "tim_ax_id50",
+          "name": "tim_ax_id50",
+          "val": "",
+          "type": "number",
+          "placeholder": "",
+          "desc": ""
+        },{
+          "id": "tim_ax_id100",
+          "name": "tim_ax_id100",
+          "val": "",
+          "type": "number",
+          "placeholder": "",
+          "desc": ""
+        },{
+          "id": "tim_ax_id200",
+          "name": "tim_ax_id200",
+          "val": "",
+          "type": "number",
+          "placeholder": "",
+          "desc": ""
+        },{
+          "id": "tim_ax_id400",
+          "name": "tim_ax_id400",
+          "val": "",
+          "type": "number",
+          "placeholder": "",
+          "desc": ""
+        }
+      ],
+      "script": "",
+      "author": "@tim",
+      "repo": "",
+      "icons": [
+      ]
+    },{
+      "id": "xsx",
+      "name": "xsx",
       "keys": [
         "tim_xs_id1",
-        "tim_xs_id2"
+        "tim_xs_id2",
+        "tim_xs_id3"
       ],
       "descs_html": [
         "<p>xs</p>"
@@ -27,6 +76,13 @@
         },{
           "id": "tim_xs_id2",
           "name": "tim_xs_id2",
+          "val": "",
+          "type": "number",
+          "placeholder": "",
+          "desc": ""
+        },{
+          "id": "tim_xs_id3",
+          "name": "tim_xs_id3",
           "val": "",
           "type": "number",
           "placeholder": "",
